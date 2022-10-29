@@ -1,0 +1,12 @@
+---
+layout: home
+permalink: /blog
+---
+
+
+
+
+
+
+
+
