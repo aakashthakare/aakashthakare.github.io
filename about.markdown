@@ -1,11 +1,11 @@
 ---
 layout: page
 permalink: /
+title: Hey, I'm Akash!
+subtitle: 👨🏻‍💻 Software Developer | 🎶 Music Lover
 ---
 
-# Hey, I'm Akash!
-
-Self-motivated software developer, keen to solve challenging and complex real world problems.
+Keen to solve challenging and complex real world problems.
 
 
 
