@@ -1,0 +1,15 @@
+---
+common-css:
+  - "/assets/css/common.css"
+---
+
+<html lang="{{ page.language | default: site.language | default: 'en' }}">
+{% include head.html %}
+
+<body>
+  {% include navigation.html %}
+  <div class = "page" >
+    {{ content }}
+  </div>
+</body>
+</html>

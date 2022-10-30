@@ -1,0 +1,10 @@
+<head>
+  <meta charset="utf-8">
+  <title>{{ title }}</title>
+
+  {% if layout.common-css %}
+    {% for css in layout.common-css %}
+      <link rel="stylesheet" href="{{ css | relative_url }}">
+    {% endfor %}
+  {% endif %}
+</head>

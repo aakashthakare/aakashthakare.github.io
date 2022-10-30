@@ -1,9 +1,4 @@
 title: ""
 url: "https://akash-rt.github.io"
-remote_theme: daattali/beautiful-jekyll
 plugins:
   - jekyll-feed
-  - jekyll-remote-theme
-navbar-links:
-  About Me: "/"
-  Blog: "blog"
