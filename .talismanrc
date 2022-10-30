@@ -1,0 +1,6 @@
+fileignoreconfig:
+- filename: assets/img/skill/mysql.svg
+  checksum: c00c0ffe84da8eac1f61c5c518b63c312eec999598ff99616e5d4e8d8a47352d
+- filename: assets/img/skill/postgresql.svg
+  checksum: 6743ffc2d399d8d4241055af8949dcc3abcf36ca5768a243aac80a7215fd0c15
+version: ""

@@ -6,7 +6,7 @@ title: About Me
 
 <h2 style="text-align: center;">Hi, I'm Akash! 👋🏼</h2>
 
-A Self-motivated software developer who loves solving challenging and complex real world problems.
+A Self-motivated software developer, who loves solving challenging and complex real world problems.
 
 <span class="big-icon">👨🏻‍💻</span>  Professional experience in variety of technologies. 
 
