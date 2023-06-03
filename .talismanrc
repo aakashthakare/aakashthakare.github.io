@@ -3,4 +3,6 @@ fileignoreconfig:
   checksum: c00c0ffe84da8eac1f61c5c518b63c312eec999598ff99616e5d4e8d8a47352d
 - filename: assets/img/skill/postgresql.svg
   checksum: 6743ffc2d399d8d4241055af8949dcc3abcf36ca5768a243aac80a7215fd0c15
+- filename: assets/img/skill/gcp.svg
+  checksum: cfa989d301d4b0ab1b6268aa80ae6e252f29273b525796ed382f55c45dff834c
 version: ""
