@@ -9,6 +9,6 @@ title: About Me
 
 <div class="about-detail">
 I am a self-motivated software developer, who loves solving challenging and complex real world problems. I have 8+ years of professional experience in variety of <a href="/skill">technologies</a> including areas like frontend, backend, devops and design. I enjoy learning, discussing and adapting the best coding and architecture practices in day to day work to ensure better software quality.
-I <a href="https://blog.akashthakare.com" target="_blank">blog</a> for the sake of jotting down my thoughts online and documentation purpose only.
+I <a href="https://www.blog.akashthakare.com" target="_blank">blog</a> for the sake of jotting down my thoughts online and documentation purpose only.
 </div>
 </div>
